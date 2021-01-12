@@ -26,7 +26,7 @@ while(input !== 'quit' ){
         console.log('try again')
     }
     
-    input = prompt('what would you like to do?')
+    input = prompt('what would you like to do, Ayumi?')
 }
 
 console.log('OK QUIT THE APP');
